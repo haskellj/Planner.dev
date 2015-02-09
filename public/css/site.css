@@ -1,0 +1,30 @@
+h1, h2 {
+	color: blue;
+	text-decoration: underline;
+}
+
+html {
+	background-color: #D2E5FF;
+	font-family: 'Indie Flower', cursive;
+}
+
+body {
+	background-image: url(../img/linedpaper.png);
+}
+
+ul, .header{
+	list-style: circle;
+	margin: auto;
+	width: 400px;
+}
+
+h2 {
+	color: red;
+}
+
+#addButton {
+	color: #fff;
+	background-color: black;
+}
+
+
